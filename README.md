@@ -1,16 +1,11 @@
-## Hey, I'm Hamish 👋
+# Hamish Bell
 
-💻 Student and aspiring Software Engineer from Adelaide, Australia.
+Student developer from Adelaide, Australia.
 
-- 🎓 Currently a high school student studying IT
-- 🌱 Learning Python, JavaScript and React
-- 🔭 Building personal projects and websites
-- 🎮 Interested in software and game development
-- 🚀 Always looking to improve my coding skills
+Currently studying in highschool whilst building projects with Python, JavaScript and React.
 
-### 🛠️ Languages & Tools
-Python • JavaScript • HTML • CSS • React • Git
+**Interests:** Software engineering, web development and game development.
 
-### 📫 Connect with me
-- GitHub: [@Hamish-Bell](https://github.com/Hamish-Bell)
-- Portfolio: [hamishbell.dev](https://hamishbell-dev.vercel.app)
+**Website:** [hamishbell-dev.vercel.app](https://hamishbell-dev.vercel.app)
+
+**GitHub:** [Hamish-Bell](https://github.com/Hamish-Bell)
