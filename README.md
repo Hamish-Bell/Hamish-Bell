@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm Hamish 👋
 
-<!--
-**Hamish-Bell/Hamish-Bell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student and aspiring Software Engineer from Adelaide, Australia.
 
-Here are some ideas to get you started:
+- 🎓 Currently a high school student studying IT
+- 🌱 Learning Python, JavaScript and React
+- 🔭 Building personal projects and websites
+- 🎮 Interested in software and game development
+- 🚀 Always looking to improve my coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+Python • JavaScript • HTML • CSS • React • Git
+
+### 📫 Connect with me
+- GitHub: [@Hamish-Bell](https://github.com/Hamish-Bell)
+- Portfolio: [hamishbell.dev](https://hamishbell-dev.vercel.app)
